@@ -7,7 +7,18 @@ This Software Project was created as part of the Modeling and Simulation module 
 
 The problem presented in this assignment was the modelling and simulation of a transsonic missile model in MATLAB/Simulink. The aerodynamic and airframe information were provided by the lecturer.  This work was mainly focusing on modelling all relevant e to analyse the flight dynamics  and response behaviour of the missile.  Furthermore, a control law shall be developed for the modelled system. For that goal suitable algorithm and fitting SIMULINK models should be created and afterwards discussed.
 
-### Usage
+### Structure
 
-the isotropic and the anisotropic algorithms are both in seperated directories. In order to get an visualised test you can run the Main_isotropic_XXX or Main_anisotropic_XXX files. XXX stands for the name of the sensor fusion algorithm which is used for that test scenario.
+This assignment aims to model and simulate the flight dynamic behaviour of a specified
+missile by using MATLAB/Simulink. This general aim can be separated into six primary
+objectives:
+
+* Describing the general model conceptualisation
+* Deviate the flight dynamic equations of a missile
+* Establishing the SIMULINK model of the missile
+* Verification of the created SIMULINK model
+* Searching Trimming states of the missile
+* Linearisation of flight dynamic equations
+* Analysing the Stability behaviour of the missile
+* Designing an Autopilot for the missile
 
