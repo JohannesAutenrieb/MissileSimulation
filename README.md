@@ -15,7 +15,7 @@ objectives:
 
 * Describing the general model conceptualisation
 * Deviate the flight dynamic equations of a missile
-* Establishing the SIMULINK model of the missile
+* Establishing the Simulink model of the missile
 * Verification of the created SIMULINK model
 * Searching Trimming states of the missile
 * Linearisation of flight dynamic equations
