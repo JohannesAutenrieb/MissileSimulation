@@ -14,7 +14,7 @@ missile by using MATLAB/Simulink. This general aim can be separated into six pri
 objectives:
 
 * Describing the general model conceptualisation
-* Deviate the flight dynamic equations of a missile
+* Derivative the flight dynamic equations of a missile
 * Establishing the Simulink model of the missile
 * Verification of the created SIMULINK model
 * Searching Trimming states of the missile
